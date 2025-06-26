@@ -151,10 +151,10 @@ Hasil scraping akan disimpan dalam berbagai format:
 
 ## Kontributor
 
-- **Nama**: [Nama Anda]
-- **NIM**: [NIM Anda]
-- **Program Studi**: [Program Studi Anda]
-- **Mata Kuliah**: Data Mining - Semester 3
+- **Nama**: Fariz Idham Ramdhani
+- **NIM**: H071231066
+- **Program Studi**: Sistem Informasi
+- **Mata Kuliah**: Data Mining - Semester 4
 
 ## Lisensi
 
